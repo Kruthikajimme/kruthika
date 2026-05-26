@@ -99,7 +99,7 @@ seaborn
 
 ---
 
-## 👩‍💻 Team
+## self
 
 | Name | GitHub |
 |---|---|
@@ -107,9 +107,4 @@ seaborn
 
 ---
 
-## 🏫 Project Info
 
-- **Degree**: BE — Computer Science & IT
-- **Year**: 4th Year, Phase 1
-- **Domain**: Healthcare AI + IoT
-- **Submission**: Phase 1 — 10th June 2026
